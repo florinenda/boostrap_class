@@ -6,3 +6,5 @@
 - The images paste
 - The bootstrap paste composed of JS & CSS frameworks
 - The styling file (CSS)
+- The html file
+
