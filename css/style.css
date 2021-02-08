@@ -1,0 +1,85 @@
+
+
+.body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    color: #00003f;
+  
+}
+
+.aboutus{
+    background-color:  #3374D3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-description{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    margin-right: 100px;
+}
+
+.img-aboutus{
+     margin-left: 90px ;
+}
+
+.img-aboutus , .aboutus{
+   display: inline-block;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.destinations{
+      background-color: white;
+      font-family: 'Roboto', sans-serif;
+      color: #3374D3;
+}
+
+
+
+
+
+
+
+
+
+.pricing, .pricing{
+    font-family: 'Roboto', sans-serif;
+    color:  #3374D3;
+    
+}
+
+
+.button{
+    background-color: #3A77C7; /* Blue */
+    border-radius: 9px;
+    border: none;
+    color: white;
+    padding: 10px 122px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-items: top;
+    
+      
+}
+
+.bg-footer{
+    background-color: #3A77C7;
+    color: white;
+    margin-bottom: auto;
+    font-family: 'Quicksand', sans-serif;
+   
+}
+
